@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.3"
+  },
+  "name": "ilyn",
+  "version": "1.0.0",
+  "main": "main.js"
+}
